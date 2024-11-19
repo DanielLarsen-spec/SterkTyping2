@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            int a = 5;
+            decimal b = 3;
+            decimal sum = a + b;
         
         }
     }
